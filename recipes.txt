@@ -1,0 +1,276 @@
+Example:
+Recipe Name
+Time to make
+Cost Estimate per person per meal
+Cuisine type
+
+Ingredients
+1. 
+2.
+3.
+
+Directions
+
+
+Recipe Name: Salmon Rice Bowl
+Time to make: 20 min
+Cost Estimate: 10
+Meal Type: Lunch/Dinner
+Cuisine type: Japanese
+
+Ingredients
+1. Salmon
+2. Rice
+3. Avocado
+4. Siracha Mayo
+5. Soy Sauce
+6. Seaweed
+
+Directions
+1. Defrost salmon
+2. Make rice in rice cooker (or pot if not available)
+3. Put salmon in air fryer for 12 minutes at 400 degrees or pan fry for 10 minutes or until cooked through.
+4. Put cooked rice, salmon, cut avocado, siracha mayo, and soy sauce in a bowl and serve!
+
+Recipe Name: Chicken Tacos
+Time to make: 20 min
+Cost Estimate: 12
+Meal Type: Lunch/Dinner
+Cuisine type: Mexican
+
+Ingredients
+1. Chicken
+2. Mexican Cheese
+3. Tortilla
+4. Canned sweet corn
+5. Avocado
+6. Shredded lettuce
+7. Taco seasoning
+
+Directions
+1. Cook chicken in a pan for 3-4 minutes or until the middle is white.
+2. Remove chicken from pan and shred with two forks
+3. Put chicken back in pan with taco seasoning and a tablespoon of water
+4. Stir chicken until the seasoning is properly dispersed
+5. Put all the ingredients in tortilla and serve!
+
+
+Recipe Name: Veggie Rice Bowl
+Time to make: 20 min
+Cost Estimate: 10
+Meal Type: Lunch/Dinner
+Cuisine type: Californian
+
+Ingredients
+1. Couscous/rice
+2. Green base: arugula or spinach
+3. Avocado
+4. Lemon
+5. Olive Oil 
+6. Mushrooms
+7. Onions
+8. Roasted brussel sprouts and/or kale
+9. Parmesan
+
+Directions
+1. Make couscous/rice in pot on stove (follow directions on box)
+2. Put brussel sprouts/kale in the air fryer for 8 minutes at 360 degrees or in the oven with lemon, olive oil, salt and pepper
+3. Dice onions and chop mushrooms and sautée together in a pan with a tablespoon of olive oil
+4. When couscous/rice is ready, put in bowl and layer arugula/spinach, toasted greens, avocado, and your mushroom and onion mix
+5. Squeeze lemon, drizzle olive oil, shake some salt and pepper, and sprinkle some parmesan/feta cheese  and serve!
+
+
+Recipe Name: Pesto Pasta with Tomatoes
+Time to make: 20 min
+Cost Estimate: 5
+Meal Type: Lunch/Dinner
+Cuisine type: Italian
+
+Ingredients
+1. Pasta
+2. Pesto
+3. Tomatoes
+4. Parmesan
+5. Optional: lemon and arugula
+
+Directions
+1. Boil water on stove and salt the water
+2. Pour desired amount of pasta in pot and let cook for 8-12 minutes
+3. Drain pasta and put in a bowl
+4. Mix in pesto, top with tomatoes and arugula, sprinkle parmesan, squeeze lemon, and serve! 
+
+
+Recipe Name: Vodka Sauce Pasta
+Time to make: 30 min
+Cost Estimate: 10
+Meal Type: Dinner
+Cuisine type: Italian
+
+Ingredients
+1. Butter
+2. Shallot
+3. Garlic
+4. Tomato Paste
+5. Red Pepper Flakes
+6. Vodka
+7. Pasta
+8. Heavy Cream
+9. Parmesan
+10. Basil
+
+Directions
+1. In a large skillet, melt 3 tablespoons of butter and one shallot and 2 cloves of garlic and let simmer for 4-5 minutes 
+2. Add 1/2 cup of tomato paste and red pepper flakes, stirring frequently, until paste is beginning to darken, 5 minutes
+3. Add 2 tablespoons of vodka, stir to incorporate, and turn off heat
+4. Bring a large pot of salted water to a boil and cook pasta until al dente. Reserve 2 cups of pasta water before draining.
+5. Return sauce to medium heat and stir in 1/4 cup of pasta water and heavy cream. Add parmesan and stir until melted.
+6. Season with salt, sprinkle more parmesan, tear basil leaves atop, and serve!
+
+
+Recipe Name: Pasta with Bolognese Sauce
+Time to make: 30 min
+Cost Estimate: 10
+Meal Type: Dinner
+Cuisine type: Italian
+
+Ingredients
+1. Pasta
+2. Ground beef
+3. Tomato paste
+4. Olive oil
+5. Onion
+6. Tomatoes
+7. Garlic
+8. Parmesan
+9. Available veggies (carrots, celery, mushrooms etc.)
+
+Directions
+1. Bring a large pot of salted water to a boil and cook pasta until al dente. Reserve 1 cup of pasta water. 
+2. Prepare ingredients, mince garlic, chop onions, tomatoes, and other desired vegetables
+3. In a large skillet, heat up olive oil and put ground beef in, breaking up and stirring frequently
+4. Add in all veggies, pasta water, and tomato paste to incorporate ingredients
+5. Place pasta and meat sauce in a bowl and sprinkle parmesan and season with salt, pepper, red pepper flakes, and oregano!
+
+
+Recipe Name: Chicken Fried Rice
+Time to make: 20 min
+Cost Estimate: 10
+Meal Type: Dinner
+Cuisine type: Asian
+
+Ingredients
+1. Frozen Fried Rice
+2. Boneless, skinless Chicken Breast
+3. Olive oil
+4. Garlic
+5. Chili Oil
+6. Teriyaki Sauce
+
+Directions
+1. Carefully cut chicken breast into cubes and season with olive oil, teriyaki sauce and minced garlic in a bowl
+2. Heat up olive oil on a pan and pan-fry chicken breast until cooked through (6 minutes)
+3. Add in frozen rice to chicken, pour two tablespoons of water, cover, and stir occasionally for about 5 minutes
+4. Place cooked chicken fried rice in a bowl and incorporate more teriyaki sauce and chili oil to taste!
+
+
+Recipe Name: Breakfast Omelette
+Time to make: 10 min
+Cost Estimate: 10
+Meal Type: Breakfast
+Cuisine type: American
+
+Ingredients
+1. 2 Eggs
+2. Veggies (Avocado, Mushrooms, Onions, Red Peppers, Spinach)
+3. Cheese (Feta, Mexican, Cheddar etc.)
+
+Directions
+1. Crack eggs and beat the eggs in a bowl with a pinch of sea salt
+2. Prepare your veggies - rinsing, chopping, and/or sautéeing
+2. Heat the pan, drizzle with olive oil, and spread egg mixture
+3. Pinch the eggs with a spatula ensuring that the eggs are cooked through while being flat on pan
+4. Spread veggie mixture on one side and flip the other half of egg over
+5. Plate your omelette and serve!
+
+
+Recipe Name: Grilled Cheese and Tomato Soup
+Time to make: 10 min
+Cost Estimate: 10
+Meal Type: Lunch
+Cuisine type: American
+
+Ingredients
+1. Sourdough Bread
+2. Cheddar Cheese (or cheese of your preference)
+3. Boxed/canned tomato Soup
+
+Directions
+1. Heat up tomato soup in a pot on the stove
+2. Drizzle olive oil on a pan and toast bread on either side
+3. Place sliced cheese in between bread and wait until melted
+4. Serve this perfect combination!
+
+
+Recipe Name: Chicken Caesar Salad
+Time to make: 20 min
+Cost Estimate: 10
+Meal Type: Lunch/Dinner
+Cuisine type: American
+
+Ingredients
+1. Romaine Lettuce
+2. Grated Parmesan
+3. Boneless, skinless Chicken Breast
+4. Lemon
+5. Garlic
+6. Olive Oil
+7. Caesar Dressing
+8. Croutons
+
+Directions
+1. Marinate chicken breast in lemon, olive oil, and garlic and pan-fry until the chicken is cooked through (8 minutes)
+2. Chop romaine lettuce
+3. Place lettuce, cooked chicken, parmesan in a bowl and drizzle caesar dressing and top wtih croutons!
+
+
+Recipe Name: Overnight Oats
+Time to make: 20 min
+Cost Estimate: 5
+Meal Type: Breakfast
+Cuisine Type: American
+
+Ingredients
+1. Rolled Oats
+2. Milk (Whole, oat, almond)
+3. Chia Seeds
+4. Yogurt
+5. Honey
+
+Directions
+1. In a small jar, stir together your oats, milk, chia seeds, yogurt and honey
+2. Place the jar in the fridge and let soak overnight, or for at least 2 hours
+3. Add toppings (fruits, peanut butter, cinnamon etc.) and serve!
+
+
+Recipe Name: Mediteranean Salad
+Time to make: 10 min
+Cost Estimate: 10
+Meal Type: Lunch
+Cuisine Type: Mediteranean
+
+Ingredients
+1. Arugula
+2. Cucumber
+3. Tomato
+4. Red Onion
+5. Feta Cheese
+6. Hummus
+7. Tzatziki
+8. Avocado
+9. Greek Vinaigrette (Olive oil, red wine vinegar, garlic, dijon, salt, pepper)
+10. Pita Bread
+
+Directions
+1. Dice your onion and cut your tomato, avocado and cucumber
+2. Place all your veggies in a bowl, sprinkle lots of feta cheese, add a dollop of hummus and tzatziki
+3. Drizzle the greek vinaigrette and serve with pita bread!
