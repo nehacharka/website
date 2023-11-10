@@ -1,0 +1,293 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.bgimage{
+    background-image: url('bg.jpg');
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.menu{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(240, 208, 220);
+
+}
+
+.left-menu{
+    background-image: url('logo.jpeg');
+    width: 10%;
+    line-height: 100px;
+    float: left;
+    height: 100px; /* Adjust the height to accommodate the logo image */
+}
+
+.left-menu img{
+    width: 90%;
+    height: auto;
+}
+
+
+.right-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+.right-menu ul {
+    margin-left: 500px;
+}
+.right-menu ul li{
+    color: palevioletred;
+font-family: 'Montserrat' , sans-serif; 
+display: inline-block;
+list-style: none;
+font-size: 15px;
+font-weight: bold;
+line-height: 100px;
+margin-left: 50px;
+}
+
+#firstlist{
+    color:black;
+}
+
+.right-menu ul li:hover{
+    color:black;
+}
+
+.text {
+    width:100%;
+    margin-top: 185px;
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(143, 92, 119);
+
+}
+
+.text h4 {
+    font-size: 14px;
+    font-family: 'Open sans' , sans-serif;
+
+}
+
+.text h1{
+    font-size: 62px;
+    font-family: 'Montserrat' , sans-serif; 
+    font-weight: 700px;
+    margin: 14px 0px;
+
+}
+
+.text h3 {
+    font-size: 12px;
+    font-family: 'Open sans' , sans-serif;
+}
+
+#buttonone {
+font-size: 12px;
+font-weight: bold;
+text-transform: uppercase;
+line-height: 40px;
+width: 150px;
+font-family: 'Montserrat' , sans-serif; 
+margin-top: 25px;
+border: 1px solid black;
+
+}
+
+#buttonone:hover {
+    background-color: transparent;
+    border: 1px solid black;
+    transition: 1s;
+}
+
+#buttontwo {
+   
+    font-family: 'Montserrat' , sans-serif; 
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    border: 1px solid black;
+    width: 150px;
+}
+
+#buttontwo:hover {
+    background-color: transparent;
+    border: 1px solid black;
+    transition: 1s;
+}
+
+
+
+.sub-header {
+    
+    height: 50vh ;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: rgb(171, 142, 154);
+
+}
+
+.sub-header text h1 {
+    margin-top: 100px;
+}
+
+.about-us {
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+}
+
+
+.about-col {
+    flex: 1; 
+    padding: 30px; 
+    box-sizing: border-box; 
+}
+
+.about-col {
+    flex-basis: 48%;
+    padding: 30px 2px;
+    
+}
+
+.about-col img {
+   max-width: 70%;
+    height: auto;
+    float: left;
+}
+
+.about-col h1{
+padding-top: 0;
+text-align:left;
+}
+
+.about-col p {
+    padding: 15px 0 25px;
+    width: 98%; /* or whatever width you want */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+/* *-------- person1 -----------*  */
+
+.person1 {
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.row1 {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px;
+}
+
+.about-col1 {
+    flex: 1;
+    padding: 30px; 
+    box-sizing: border-box; 
+}
+
+.about-col1 {
+    flex-basis: 48%;
+    padding: 30px 2px;
+    
+}
+
+.about-col1 img {
+   max-width: 78%;
+    height: auto;
+    float: left;
+}
+
+.about-col1 h1{
+padding-top: 0;
+text-align:left;
+}
+
+.about-col1 p {
+    padding: 15px 0 25px;
+    width: 98%; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+/* -------person2---------- */
+
+.person-2 {
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+
+/* Add display flex to the .row to align children side by side */
+.row-2 {
+    display: flex;
+    flex-wrap: wrap; /* This will allow items to wrap in small screens */
+    gap: 20px; /* This provides space between the columns */
+}
+
+/* Adjust .about-col to manage spacing and box sizing */
+.about-col2 {
+    flex: 1; /* This allows the columns to grow and take up available space */
+    padding: 30px; /* This adds padding inside the columns */
+    box-sizing: border-box; /* This ensures padding is included in width */
+}
+
+.about-col2 {
+    flex-basis: 48%;
+    padding: 30px 2px;
+    
+}
+
+.about-col2 img {
+   max-width: 78%;
+    height: auto;
+    float: left;
+}
+
+.about-col2 h1{
+padding-top: 0;
+text-align:left;
+}
+
+.about-col2 p {
+    padding: 15px 0 25px;
+    width: 98%; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
