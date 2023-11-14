@@ -1,11 +1,6 @@
-// const appId = "c325db64";
-// const appKey = "74b66725287211e53e7457973b57e1d5";
-// const baseURL = `https://api.edamam.com/api/recipes/v2?type=public&q=chicken&app_id=c325db64&app_key=74b66725287211e53e7457973b57e1d5` ;
-
-const appId = "984f4117";
-const appKey = "9ea1a22e7eec0a7366f85848729e1469";
-const baseURL = `https://api.edamam.com/api/recipes/v2?type=public&q=chicken&app_id=984f4117&app_key=9ea1a22e7eec0a7366f85848729e1469` ;
-
+const appId = "c325db64";
+const appKey = "74b66725287211e53e7457973b57e1d5";
+const baseURL = `https://api.edamam.com/api/recipes/v2?type=public&q=chicken&app_id=c325db64&app_key=74b66725287211e53e7457973b57e1d5` ;
 const recipeContainer = document.querySelector("#recipe-container");
 const txtSearch = document.querySelector("#txtSearch");
 const btnFind = document.querySelector(".btn");
