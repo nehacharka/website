@@ -70,14 +70,14 @@ margin-left: 50px;
   }
   
   .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    margin: 8px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+    margin: 150px;
   }
   
   .about-section {
     padding: 50px;
     text-align: center;
-    background-color: #ab6190;
+    background-color: rgb(199, 141, 172);
     color: white;
   }
   
