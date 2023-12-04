@@ -25,15 +25,19 @@
 
 
 .right-menu {
-    display: flex;
+    width: 75%;
+    height: 100px;
+    float: right;
+    /*display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center;*/
   }
   
 
 .right-menu ul {
     margin-left: 500px;
 }
+
 .right-menu ul li{
     color: palevioletred;
     font-family: 'Montserrat' , sans-serif; 
@@ -45,12 +49,20 @@
     margin-left: 50px;
 }
 
-#firstlist{
+/*#firstlist{
     color:black;
-}
+}*/
 
 .right-menu ul li:hover{
     color:black;
+}
+
+.text {
+    width:100%;
+    margin-top: 185px;
+    text-transform: uppercase;
+    text-align: center;
+    color:rgb(143, 92, 119);
 }
 
 body {
