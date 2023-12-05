@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 <head>
     <title>Recipe Submission Form</title>
@@ -29,122 +28,35 @@
         </div>
     </section>
 
-    <br>
-
-    <nav>
-        <h1>Submission Form</h1>
-    </nav>
     <div class="container">
-        <!--Recipe Submission Form-->
-        <div class="left-column">
-            <form>
 
-                <!--Recipe name-->
-                <div>
-                    <label for="recipe-name">Recipe Name:</label>
-                    <input type = "text" id="recipe-name" name="recipe-name" placeholder="Banana Bread" required>
-                </div>
-        
-                <br>
-        
-                <!--Serving size-->
-                <div>
-                    <label for="quantity">Serving Size:</label>
-                    <input type = "number" id="quantity" name="quantity" min="0" max="99" value="1" required>
-                </div>
-        
-                <br>
-        
-                 <!--Time to make-->
-                <div>
-                    <label for="time">Estimated time to make:</label>
-                    <input type = "number" id="time" name="time" min="0" max="120" value="20" required>
-                </div>
-        
-                <br>
-        
-                <!--Cost estimate-->
-                <div>
-                    <label for="cost">Cost Estimate:</label>
-                    <input type = "number" id="cost" name="cost" min="0" max="100" value="10" required>
-                </div>
-        
-                <br>
-        
-                <!--Meal Type Categories-->
-                <div>
-                    <label for="mealtype">Meal type:</label>
-
-                    <br>
-
-                    <label for="breakfast">Breakfast</label>
-                    <input type="checkbox" id="breakfast" name="mealtype">
-                    <br>
-                    <label for="lunch">Lunch</label>
-                    <input type="checkbox" id="lunch" name="mealtype">
-                    <br>
-        
-                    <label for="dinner">Dinner</label>
-                    <input type="checkbox" id="dinner" name="mealtype">
-                    <br>
-        
-                    <label for="snack">Snack</label>
-                    <input type="checkbox" id="snack" name="mealtype">
-                    <br>
-        
-                    <label for="dessert">Dessert</label>
-                    <input type="checkbox" id="dessert" name="mealtype">
-                </div>
-        
-                <br>
-                <!--Cuisine Type Categories-->
-                <div>
-                    <label for="cuisine">Cuisine:</label>
-                    <select id="cuisine" name="cuisine">
-                        <option value="american">American</option>
-                        <option value="asian">Asian</option>
-                        <option value="mexican">Mexican</option>
-                        <option value="japanese">Japanese</option>
-                        <option value="chinese">Chinese</option>
-                        <option value="n/a">N/A</option>
-                    </select>
-                </div>
-        
-                <br>
-    
-                <!--Ingredients-->
-                <div>
-                    <label for="recipe-ingredients">Ingredients:</label>
-                    <textarea id="recipe-ingredients" rows="5" required> </textarea>
-                </div>
-        
-                <br>
-
-                <!--Method-->
-                <div>
-                    <label for="recipe-method">Method:</label>
-                    <textarea id="recipe-ingredients" rows="5" required> </textarea>
-                </div>
-        
-                <br>
-        
-                <!--Submit button-->
-                <div>
-                    <button type="submit">Add Recipe</button>
-                </div>
-            </form>
+	   <!-- Add recipes form -->
+       <div class="left-column">
+        <h3>Add Recipe</h3>
+        <form>
+          <label for="recipe-name">Name:</label>
+          <input type="text" id="recipe-name" required>
+          <br>
+          <label for="recipe-ingredients">Ingredients:</label>
+          <textarea id="recipe-ingredients" rows="5" required></textarea>
+          <br>
+          <label for="recipe-method">Method:</label>
+          <textarea id="recipe-method" rows="5" required></textarea>
+          <br>
+          <button type="submit">Add Recipe</button>
+        </form>
+      </div>
+	  <!-- Search bar/view recipes list -->
+	  <div class="right-column">
+		<div id="search-section">
+          <h3>Recipes List</h3>
+          <label for="search-box">Search:</label>
+          <input type="text" id="search-box">
         </div>
-
-        <!--Recipe Display Box-->
-        <div class="right-column">
-            <div id="recipe-list"></div>
-            
-        </div>
+        <div id="recipe-list"></div>
+		<div id="no-recipes">You have no recipes.</div>
+      </div>
     </div>
-
-
-
     <script src="formscript.js"></script>
-</body>
-
+  </body>
 </html>
