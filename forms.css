@@ -15,7 +15,7 @@
     width: 10%;
     line-height: 100px;
     float: left;
-    height: 100px; /* Adjust the height to accommodate the logo image */
+    height: 100px; 
 }
 
 .left-menu img{
@@ -28,9 +28,6 @@
     width: 75%;
     height: 100px;
     float: right;
-    /*display: flex;
-    align-items: center;
-    justify-content: center;*/
   }
   
 
@@ -48,10 +45,6 @@
     line-height: 100px;
     margin-left: 50px;
 }
-
-/*#firstlist{
-    color:black;
-}*/
 
 .right-menu ul li:hover{
     color:black;
@@ -94,8 +87,7 @@ body {
   .right-column {
     width: 65%;
   }
-  
-  /* Styling for the Add Recipes form */
+
   form {
     display: flex;
     flex-direction: column;
@@ -123,7 +115,7 @@ body {
     cursor: pointer;
   }
   
-  /* Styling for list of recipes */
+
   #recipe-list {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -138,7 +130,7 @@ body {
       margin-top: 44px;
   }
   
-  /* styling for single recipe div */
+ 
   .recipe {
     border: 1px solid #ccc;
     padding: 10px;
@@ -161,7 +153,7 @@ body {
     margin-bottom: 5px;
   }
   
-  /* Delete button styling */
+ 
   .delete-button {
     background-color: #dc3545;
     color: #fff;
@@ -175,7 +167,7 @@ body {
     background-color: #c82333;
   }
   
-  /* Search label styling */
+ 
   label[for="search-box"] {
     display: block;
     margin-bottom: 10px;
