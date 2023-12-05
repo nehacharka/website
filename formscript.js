@@ -14,20 +14,26 @@ function handleSubmit(event) {
   
   
   const nameInput = document.querySelector('#recipe-name');
+  const timeInput = document.querySelector('#time');
+  const costInput = document.querySelector('#cost');
   const ingrInput = document.querySelector('#recipe-ingredients');
   const methodInput = document.querySelector('#recipe-method');
   const name = nameInput.value.trim();
+  const time = timeInput.value;
+  const cost = costInput.value;
   const ingredients = ingrInput.value.trim().split(',').map(i => i.trim());
   const method = methodInput.value.trim();
   
  
-  if (name && ingredients.length > 0 && method) {
+  if (name && time && cost && ingredients.length > 0 && method) {
    
-    const newRecipe = { name, ingredients, method };
+    const newRecipe = { name, time, cost, ingredients, method };
     recipes.push(newRecipe);
     
     
     nameInput.value = '';
+    timeInput.value = '';
+    costInput.value = '';
     ingrInput.value = '';
     methodInput.value = '';
     
@@ -44,6 +50,8 @@ function displayRecipes() {
 	
     recipeDiv.innerHTML = `
       <h3>${recipe.name}</h3>
+      <p><strong>Estimated time: ${recipe.time} minutes </strong></p>
+      <p><strong>Estimated cost: $ ${recipe.cost}</strong></p>
       <p><strong>Ingredients:</strong></p>
       <ul>
         ${recipe.ingredients.map(ingr => `<li>${ingr}</li>`).join('')}
